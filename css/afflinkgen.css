@@ -58,12 +58,13 @@
         }
 
         .affi-price-main-display>div:nth-child(1) {
-            flex: 0;
-            text-align: center;
-            padding: 10px;
-            background: #38444d;
-            font-size: xxx-large;
-        }
+    flex: 0;
+    text-align: center;
+    padding: 10px;
+    background: #38444d;
+    font-size: xxx-large;
+    align-self: center;
+}
 
         .affi-price-main-display>div:nth-child(2) {
             flex: 3;
