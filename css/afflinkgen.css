@@ -1,0 +1,100 @@
+        .affi-pro-ratring {
+            font-size: small;
+            display: flex;
+            align-items: center;
+            
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: #38444d;
+            color: white;
+            margin-right: 10px;
+        }
+
+        .affi-pro-ratring span {
+    display: block;
+    font-size: large;
+    margin: 0px 0px 0px 15px;
+    font-family: system-ui;
+}
+
+.affi-pro-ratring span {
+            display: block;
+            font-size: large;
+        }
+
+        .affi-pro-aliExpress-button {
+            text-align: center;
+            align-self: center;
+        }
+
+        .affi-pro-aliExpress-button>a {
+            background: yellowgreen;
+            color: white;
+            padding: 5px;
+            text-decoration: none;
+            border-radius: 6px;
+            box-shadow: 1px 1px 8px black;
+        }
+
+        .affi-pro-name {
+            font-size: x-large;
+        }
+
+        .affi-price-main-display>div {
+            margin: 1px;
+        }
+
+        .affi-pro-img-display>img {
+            width: 100px;
+        }
+
+        .affi-price-main-display {
+            background: #e1e1e1;
+            display: flex;
+            height: auto;
+            color: white;
+            padding: 1px;
+        }
+
+        .affi-price-main-display>div:nth-child(1) {
+            flex: 0;
+            text-align: center;
+            padding: 10px;
+            background: #38444d;
+            font-size: xxx-large;
+        }
+
+        .affi-price-main-display>div:nth-child(2) {
+            flex: 3;
+            background: #38444d;
+            padding: 5px;
+        }
+
+        .affi-price-main-display>div:nth-child(3) {
+            flex: 2;
+            background: #38444d;
+        }
+
+        @media only screen and (max-width: 600px) {
+            .affi-price-main-display {
+                background: #e1e1e1;
+                display: inline;
+                height: auto;
+                color: white;
+                padding: 1px;
+            }
+
+            .affi-price-main-display>div:nth-child(3) {
+                background: #38444d;
+                /* height: 52px; */
+                margin: 23px;
+            }
+            
+            .affi-pro-ratring span {
+    display: block;
+    font-size: large;
+    margin: 0px 0px 0px 15px;
+    font-family: system-ui;
+}
+        }
