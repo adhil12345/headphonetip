@@ -82,12 +82,14 @@
 
         @media only screen and (max-width: 600px) {
             .affi-price-main-display {
-                background: #e1e1e1;
-                display: inline;
-                height: auto;
-                color: white;
-                padding: 1px;
-            }
+    background: #38444d;
+    display: inline;
+    height: auto;
+    color: white;
+    padding: 1px;
+    border: 1px solid;
+    line-height: initial;
+}
 
             .affi-price-main-display>div:nth-child(3) {
                 background: #38444d;
