@@ -1,4 +1,7 @@
-        .affi-pro-ratring { 
+.affi-pro-name {
+    text-align: left;
+}
+.affi-pro-ratring { 
             font-size: small;
             display: flex; 
             align-items: center;
