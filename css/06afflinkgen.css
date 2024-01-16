@@ -124,8 +124,6 @@ tr:nth-child(even) {
 }
 
 div#post-body table, th, tr, td {
-    border: 1px solid;
-    padding: 5px 
-px
-;
+    border: 1px solid !important;
+    padding: 5px !important;
 }
