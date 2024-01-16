@@ -100,3 +100,9 @@
 }
         }
 
+.affi-pro-ratring>span {
+    border: 2px solid yellowgreen;
+    padding: 3px 10px;
+    border-radius: 100%;
+    border-bottom: hidden;
+}
