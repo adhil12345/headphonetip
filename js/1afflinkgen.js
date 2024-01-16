@@ -17,7 +17,7 @@
                 <div class="affi-pro-ratring">${generateStars(afflprorating)}<span> ${afflprorating}</span></div>
             </div>
             <div class="affi-pro-aliExpress-button">
-                <a style="color:white;" target="_blank" href="${afflink}">Check Price on <span style="color:red;">AliExpress</span></a>
+                <a style="color:white;" target="_blank" href="${afflink}">Check Price on <span style="color:red;font-weight: bold;text-shadow: 0px 1px 1px white;">AliExpress</span></a>
             </div>
         `;
         
