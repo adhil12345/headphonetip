@@ -122,3 +122,10 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+div#post-body table, th, tr, td {
+    border: 1px solid;
+    padding: 5px 
+px
+;
+}
