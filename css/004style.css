@@ -13,14 +13,15 @@
     
 .main-aliPro-bttn-check a {
     background: red;
-    color: white;
-    padding: 4px 5px;
+    color: white !important;
+    padding: 1px 9px;
     border-radius: 4px;
 }
 .main-aliPro-bttn-check {
-    padding: 10px;
+    padding: 13px 0px 1px 0px;
     text-align: center;
     font-size: larger;
+    height: max-content;
 }
 
 .main-aliPro-AliExpress-lable {
