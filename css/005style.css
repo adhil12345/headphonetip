@@ -18,7 +18,6 @@
     border-radius: 4px;
 }
 .main-aliPro-bttn-check {
-    padding: 13px 0px 1px 0px;
     text-align: center;
     font-size: larger;
     height: max-content;
@@ -27,11 +26,6 @@
 .main-aliPro-AliExpress-lable {
     text-align: center;
     font-size: small;
-}
-.main-aliPro-bttn-check {
-    padding: 8px;
-    text-align: center;
-    font-size: larger;
 }
 .checked {
   color: orange;
@@ -50,4 +44,7 @@
 }
 .main-aliPro-bttn {
     flex: 2;
+}
+.main-aliPro-heading-rating {
+    font-size: smaller;
 }
