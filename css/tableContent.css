@@ -1,0 +1,31 @@
+    .tableofcontentHeadding-display {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-top: 20px;
+      border-radius: 5px;
+      background-color: #f8f8f8;
+    }
+
+    .tableofcontentHeadding-display a {
+      display: block;
+      margin-bottom: 5px;
+      padding: 5px;
+      text-decoration: none;
+      color: #333;
+      border-radius: 3px;
+      transition: background-color 0.3s ease;
+    }
+
+    .tableofcontentHeadding-display a:hover {
+      background-color: #ddd;
+    }
+
+    .tableofcontentHeadding-display .h2-heading {
+      font-size: 20px; /* Adjust the font size for h2 */
+    }
+
+    .tableofcontentHeadding-display .h3-heading {
+      margin-left: 15px;
+      color: #555;
+      font-size: 14px; /* Adjust the font size for h3 */
+    }
