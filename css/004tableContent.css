@@ -22,7 +22,8 @@
     }
 
     .tableofcontentHeadding-display .h2-heading {
-      font-size: 15px; /* Adjust the font size for h2 */
+    font-size: 15px;
+    font-weight: 600;
     }
 
     .tableofcontentHeadding-display .h3-heading {
