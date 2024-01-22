@@ -26,7 +26,8 @@
     }
 
     .tableofcontentHeadding-display .h3-heading {
-      margin-left: 15px;
-      color: #555;
-      font-size: 10px; /* Adjust the font size for h3 */
+    margin-left: 15px !important;
+    color: #555;
+    font-size: 12px;
+    border-left: outset;
     }
